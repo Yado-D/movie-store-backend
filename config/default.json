@@ -1,6 +1,3 @@
 {
-  "name": "My Express App",
-  "mail": {
-    "password": "1234"
-  }
+  "name":"Movie store app backend"
 }
