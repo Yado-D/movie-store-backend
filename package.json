@@ -1,0 +1,21 @@
+{
+  "name": "node_as_backend",
+  "version": "1.0.0",
+  "description": "this isn't my last but the least node project",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "yared dereje",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "config": "^4.1.0",
+    "debug": "^4.4.1",
+    "express": "^5.1.0",
+    "joi": "^17.13.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.16.5",
+    "winston": "^3.17.0"
+  }
+}
